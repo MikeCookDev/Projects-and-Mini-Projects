@@ -8,3 +8,5 @@ Projects i've created while practicing
 12-19-2018 : Uploaded Mini Quiz Project
 
 1-8-2019 : Uploaded a Photographer Portfolio Practice Project
+
+1-23-2019 : Uploaded a Mini Pokemon Trivia site.
