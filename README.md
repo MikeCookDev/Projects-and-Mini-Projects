@@ -13,4 +13,4 @@ Projects i've created while practicing
 
 2-6-2019: Uploaded a site for my fantasy booking site, practicing tables.
 
-2-6-2019: Updated and added a little bit of design for the site.
+2-6-2019: Updated and added a little bit of design for the wrestling vs site.
