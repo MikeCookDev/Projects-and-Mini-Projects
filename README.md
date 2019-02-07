@@ -10,3 +10,5 @@ Projects i've created while practicing
 1-8-2019 : Uploaded a Photographer Portfolio Practice Project
 
 1-23-2019 : Uploaded a Mini Pokemon Trivia site.
+
+2-6-2019: Uploaded a site for my fantasy booking site, practicing tables.
