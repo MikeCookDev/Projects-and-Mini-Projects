@@ -7,6 +7,7 @@
 body {
   font-family: 'Nunito', sans-serif;
   color: #384047;
+  background: #040404;
 }
 
 table {
@@ -18,12 +19,13 @@ caption {
   font-size: 1.6em;
   font-weight: 400;
   padding: 10px 0;
+  color: #d3ca1d;
 }
 
 thead th {
   font-weight: 400;
-  background: #8a97a0;
-  color: #FFF;
+  background: #d3ca1d;
+  color: #000000;
 }
 
 tr {
@@ -51,4 +53,14 @@ tfoot td {
   font-size: 0.8em;
   font-style: italic;
   color: #8a97a0;
+}
+
+
+img {
+  max-width: 100%;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20%;
 }
